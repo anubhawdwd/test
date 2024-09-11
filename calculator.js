@@ -38,3 +38,5 @@ const clearDisplay = () => {
 const deleteLastInput = () => {
   display.innerHTML = display.value.slice(0, -1);
 };
+
+// hahahahah
